@@ -1,1 +1,0 @@
-bst.construct_from_traversals(in1, pre1); 
