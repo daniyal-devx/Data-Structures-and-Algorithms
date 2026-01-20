@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Stack.h"
+#include "../Stack.h"
 #include<string>
 #include<cctype>
 using namespace std;
